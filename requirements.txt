@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+opencv-python
+numpy
+matplotlib
+mediapipe
+scipy
+Pillow
+pygame
