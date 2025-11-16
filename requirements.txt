@@ -1,3 +1,4 @@
+
 absl-py==2.3.1
 altair==5.5.0
 asttokens==3.0.0
@@ -61,7 +62,8 @@ matplotlib==3.10.7
 matplotlib-inline==0.1.7
 mdit-py-plugins==0.5.0
 mdurl==0.1.2
-mediapipe==0.10.21
+# mediapipe version downgraded for Python 3.13 compatibility
+mediapipe==0.10.18
 ml-dtypes==0.3.2
 msgpack==1.1.1
 mypy==1.18.2
